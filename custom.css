@@ -1,0 +1,66 @@
+body {
+    /*background: url(images/dumpster-metal-texture-3.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+    color: white;
+}
+
+.myBackground {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: inherit;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
+
+.intro {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.icons {
+    text-align: center;
+    letter-spacing: 8px;
+}
+
+.icons > a {
+    color: inherit;
+
+}
+
+.portrait {
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+
+a:hover {
+    color:darkgrey;
+}
+
+
+#home {
+    background: url(images/dumpster-metal-texture-3.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+#bio {
+    background-color: /*#3a5d61*/ #a1adad;
+}
+
+#samples {
+    
+    background-color: #1F6E7C;
+}
+
+#sampleOne {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#sampleTwo {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+}
